@@ -12,6 +12,8 @@
         <module>001-ServerDemo</module>
         <module>002-TimeServerDemo</module>
         <module>002-TimeClientDemo</module>
+        <module>003-TCPUnpackingProblem</module>
+        <module>003-LineBasedFrameDecoder-StringDecoder</module>
     </modules>
 
 
